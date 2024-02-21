@@ -1,3 +1,6 @@
 *.gguf
 .venv/
-data/ 
+data/
+.chainlit/
+.files/
+__pycache__/
